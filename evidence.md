@@ -4,6 +4,6 @@ Object: Sedan
 
 Location: Outside the archive
 
-The car color is _____
+The car color is red.
 
 Recorded by: Maya
